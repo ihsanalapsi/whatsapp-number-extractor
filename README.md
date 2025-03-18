@@ -2,7 +2,7 @@
 
 A powerful tool to extract phone numbers from WhatsApp groups and export them into a CSV file. This WhatsApp number extractor works directly in your browser, without requiring any extensions or proxies. Simply open WhatsApp web client [https://web.whatsapp.com](https://web.whatsapp.com/), copy-paste the script into your Chrome console, and open the group members modal. Then scroll to extract the phone numbers.
 
-![WhatsApp Number Extractor](statics/screen_script.png)
+![WhatsApp Number Extractor](https://data.textstudio.com/output/sample/animated/3/3/7/6/whatsapp-1-6733.gif)
 
 ## How to use the WhatsApp Number Extractor
 
@@ -26,12 +26,6 @@ A powerful tool to extract phone numbers from WhatsApp groups and export them in
 
 - **Phone Number**: Member phone numbers in clean format (without random symbols)
 
-## How to build it locally
-
-```
-yarn install
-yarn build
-```
 
 ## Screenshots Guide
 
@@ -45,7 +39,8 @@ To open the Chrome Developer console on Chrome, use the keyboard shortcut `Ctrl 
 
 Select the "Console" tab and copy-paste the script.
 
-![Paste the script](statics/copy-paste-script.png)
+![Copy the script](statics/copy-script.png)
+![Paste the script](statics/paste-script.png)
 
 **Open the WhatsApp Group Members Modal**
 
