@@ -68,17 +68,11 @@ Once finished, click the button "Download X users" to save your CSV file.
   - The script stores the extracted numbers in a database. There is no limit on the number of phone numbers you can extract.
 - **What is the "Reset" button?**
   - The phone numbers are stored in a cache in your browser. The "Reset" button clears this cache.
-- **What is the "Info" button?**
-  - The "Info" button displays information about the developer (Ihsan Alapsi).
 - **Is it free?**
   - Yes, this tool is free to use.
-
-## About the Developer
-
-This tool was developed by **Ihsan Alapsi**. You can find more information about the developer by clicking the "Info" button in the tool.
 
 - **GitHub**: [https://github.com/ihsanalapsi](https://github.com/ihsanalapsi)
 - **LinkedIn**: [https://www.linkedin.com/in/ihsan-alapsi/](https://www.linkedin.com/in/ihsan-alapsi/)
 - **Instagram**: [https://www.instagram.com/ihsan.alapsi/](https://www.instagram.com/ihsan.alapsi/)
 
-© 2025 WhatsApp Number Extractor by Ihsan Alapsi
+© 2025 WhatsApp Number Extractor (Edited) by Ihsan Alapsi
